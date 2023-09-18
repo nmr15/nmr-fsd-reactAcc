@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "target": "collapseOne",
+    "title": "01. I don't remember my password",
+    "text": "Under the password input, click Forget Password"
+  },
+  {
+    "id": "2",
+    "target": "collapseTwo",
+    "title": "02. How can I create an account on your site?",
+    "text": "Click on Login & Sign up at the top of the page. Then fill out your information in the Create an account section and click the Sign Up button. You can also create an account directly after placing an order."
+  },
+  {
+    "id": "3",
+    "target": "collapseThree",
+    "title": "03. What are your delivery hours?",
+    "text": "8am - 5pm Mon-Fri; 10am - 4pm Sat"
+  }
+]
